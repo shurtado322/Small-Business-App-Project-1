@@ -19,7 +19,7 @@
 
 using namespace std;
 
-const float TAX_RATE = .0875;                 // 8.75% tax rate multiplier
+const float TAX_RATE = .0775;                 // 7.75% tax rate multiplier
 const float PREPAID_BASICS = 40.0;            // Monthly cost of Basics Prepaid plan
 const float PREPAID_STANDARD = 55.00;         // Monthly cost of prepaid standard
 const float PREPAID_PREMIUM = 75.0;           // Monthly cost of Premium Prepaid
